@@ -22,7 +22,7 @@ namespace HomeWork
 
             while (true)
                 {
-                    Console.Write("Please enter en integer: ");//hhhh
+                    Console.Write("Please enter en integer: ");//hhhhhf
                     String number = Convert.ToString(Console.ReadLine());
                    
 
